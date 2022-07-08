@@ -1,0 +1,5 @@
+// if character ascii code is between 70 - 177 
+// add  10 if character is above 95 
+// substact 10 if character is 95 or below
+// most people only expect to be working with the alphabet when cyphering
+// thus this cyper will throw them off guard.
